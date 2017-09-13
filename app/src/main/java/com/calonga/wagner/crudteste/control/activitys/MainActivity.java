@@ -1,7 +1,9 @@
-package com.calonga.wagner.crudteste;
+package com.calonga.wagner.crudteste.control.activitys;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.calonga.wagner.crudteste.R;
 
 public class MainActivity extends AppCompatActivity {
 
